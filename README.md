@@ -1,4 +1,4 @@
-weather
+json-reificator
 =======
 
-[issgc] java interface to wunderground api
+[issgc] creating java objects from json using the nashorn script engine
